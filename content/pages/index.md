@@ -20,6 +20,7 @@ sections:
         style: button
         url: harishussnain111@gmail.com
         new_window: true
+    image: images/unknown.png
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
