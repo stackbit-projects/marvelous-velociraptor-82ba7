@@ -18,6 +18,7 @@ sections:
     actions:
       - label: Contact Me
         style: button
+        url: /
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
