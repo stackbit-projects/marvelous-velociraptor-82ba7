@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Haris J Hussnain
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Student of History and Sociology and freelance web developer.
   - section_id: about
     type: section_content
     title: About
